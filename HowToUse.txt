@@ -1,0 +1,11 @@
+Use ¡®python main.py¡¯ to run the code.
+Here are some parameters:
+    -dataset,  grocery | usage
+    -alg,      dummy | apriori | fpgrowth
+    -min_sup,  default = 20
+    -min_conf, default = 0.1
+    -dummy,    default = False
+
+
+The output will be stored in a file located in the current directory. 
+The name of the output file is closely related to the values of parameters.
